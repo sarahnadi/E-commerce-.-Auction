@@ -1,2 +1,2 @@
 # E-commerce-.-Auction
-Android E-commerce/Auction application with Java
+Android E-commerce/Auction application with Java, Android Studio
