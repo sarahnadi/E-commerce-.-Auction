@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu1"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="Se connecter" />
+
+        <item
+            android:id="@+id/nav_menu2"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Accueil" />
+
+
+
+
+        <item
+            android:id="@+id/nav_menu5"
+            android:icon="@drawable/ic_local_grocery_store_black_24dp"
+            android:title="Mes achats" />
+
+        <item
+            android:id="@+id/nav_menu6"
+            android:icon="@drawable/ic_gavel_black_24dp"
+            android:title="Enchères et offres" />
+
+        <item
+            android:id="@+id/nav_menu7"
+            android:icon="@drawable/ic_attach_money_black_24dp"
+            android:title="Mes ventes" />
+
+        <item
+            android:id="@+id/nav_menu8"
+            android:icon="@drawable/ic_info_outline_black_24dp"
+            android:title="À propos" />
+
+        <item
+            android:id="@+id/nav_menu9"
+            android:icon="@drawable/ic_arrow_forward_black_24dp"
+            android:title="Se déconnecter" />
+
+
+
+
+
+
+    </group>
+
+
+
+</menu>

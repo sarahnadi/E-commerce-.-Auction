@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="premiereapplication.automation.test.notreapp.A_propos">
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="327dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:text="   Bienvenue sur Auction Nation, votre plateforme d’enchères en ligne à la croissance la plus rapide du monde.
+
+  "
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@+id/textView12"
+        app:layout_constraintHorizontal_bias="0.511"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        tools:layout_editor_absoluteY="-1dp" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="335dp"
+        android:layout_height="197dp"
+        android:layout_marginBottom="245dp"
+        android:layout_marginLeft="11dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:text="   Assis ou allongés devant votre Smartphone, avec Auction Nation , vous pouvez  enchérir sur votre produit préféré par un simple clic de doigt sur plus de 100 enchères dans différentes catégories et dans un délai ne dépassant pas 24h  . vous pouvez également suivre l’évolution de vos enchères quotidiennement , s’identifier par un compte personnalisé qui vous assurera la confidentialité de vos coordonnées , la sécurité et la possibilité de modifier , supprimer ou ajouter vos coordonnées ou ventes …"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.283"
+        tools:layout_editor_absoluteX="41dp" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="330dp"
+        android:layout_height="206dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="11dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:text="   Auction Nation vous offre en plus l’opportunité d’être à la fois vendeur, acheteur ou un simple utilisateur selon vos choix préférés
+  Chaque prix proposé pour un article précis est instantanément vérifié et approuvé par nos experts qui sont à votre service 24h/24h. Vous pouvez donc avoir confiance en l’authenticité du choix du gagnant de l’article sur lequel vous enchérissez et être certain de leur extrême qualité de service"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.771"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.611"
+        tools:layout_editor_absoluteY="207dp"
+        tools:layout_editor_absoluteX="38dp" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="334dp"
+        android:layout_height="114dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="11dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:text="   Pour toute remarque, questions ou réclamations, veuillez nous contacter sur notre boite émail ou par téléphone
+-0522-56-56-81
+-0522-56-56-82
+-AuctionNation@gmail.com
+"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.741"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.869" />
+</android.support.constraint.ConstraintLayout>
